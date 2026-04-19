@@ -1,9 +1,8 @@
 updated task 1, added iris dataset classification with preprocessing, visualization and model implementation.
 🌸 Iris Flower Classification
-📌 Overview
-This project is part of my data science internship where I worked on the Iris dataset to understand the basics of machine learning classification.
-Dataset:
-The dataset consists of different iris flower species - 
+Overview of my project: 
+This project is part of my data science internship where I worked on the Iris dataset to understand the basics of machine learning classification 
+The dataset consists of different iris flower species : 
      1. Setosa 
      2. Versicolor
      3. Virginica
@@ -12,7 +11,7 @@ The dataset consists of different iris flower species -
      2. Exploratory Data Analysis (EDA) 
      3.  Data visualization  
      4. Model training and testing                         
-Libraries Used:
+Libraries I used : 
     1. Python  
     2. Pandas  
     3. NumPy  
